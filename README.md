@@ -9,6 +9,13 @@ Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmen
 ---
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/8code8hacker8-dotcom?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -24,6 +31,12 @@ Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmen
         />
     </a>
 </p>
+
+---
+
+### 🎮 Gráfico de Contribuições (Pac-Man)
+
+![Pac-Man Eating Contributions](https://raw.githubusercontent.com/8code8hacker8-dotcom/8code8hacker8-dotcom/output/github-contribution-grid-snake.svg)
 
 ---
 
