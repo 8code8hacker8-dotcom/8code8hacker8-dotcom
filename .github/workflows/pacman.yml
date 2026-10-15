@@ -1,4 +1,4 @@
-name: Generate Pac-Man Eating Game
+name: Generate Snake Game
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: generate pacman-snake.svg
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 8code8hacker8-dotcom
