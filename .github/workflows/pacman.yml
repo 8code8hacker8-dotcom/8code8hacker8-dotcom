@@ -1,4 +1,4 @@
-name: Generate Pac-Man Snake Game
+name: Generate Pac-Man Eating Game
 
 on:
   schedule:
@@ -11,13 +11,13 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate pacman-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 8code8hacker8-dotcom
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23ffea00&color_dots=%23161b22,%2340c463,%2330a14e,%23216e39,%230e4429
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ffea00
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
