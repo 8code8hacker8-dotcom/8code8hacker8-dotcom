@@ -9,7 +9,7 @@ Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmen
 ---
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/isac-emanuel-3768541a7/?isSelfProfile=true" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
