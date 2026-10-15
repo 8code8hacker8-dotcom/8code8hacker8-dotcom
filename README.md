@@ -1,15 +1,10 @@
-# 👩🏻‍💻 Isac Emanuel
+# 💻 Isac Emanuel
 
 **`Desenvolvedor`**
 
-Me chamo  Isac Emanuel , tenho 26 anos e sou natural de Minas Gerais. . Atualmente, estou cursando Ciência da Computação pelo Centro Universitário Dom Helder / Engenharia de Software pela Unicesumar. Sou apaixonado por tecnologia e em constante evolução no desenvolvimento.
+Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou cursando **Ciência da Computação** (Centro Universitário Dom Helder) e **Engenharia de Software** (UniCesumar). Sou apaixonado por tecnologia e em constante evolução no desenvolvimento.
 
-
-### Olá, mundo! 👋
-
-Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou cursando **Ciência da Computação** (Centro Universitário Dom Helder) e **Engenharia de Software** (UniCesumar)[span_0](start_span)[span_0](end_span). Sou apaixonado por tecnologia e em constante evolução no desenvolvimento.
-
-🎓 Ciência da Computação & Engenharia de Software[span_1](start_span)[span_1](end_span) | 📊 Análise de Dados & Cybersecurity | 💻 Python • Java • SQL[span_2](start_span)[span_2](end_span)
+🎓 Ciência da Computação & Engenharia de Software | 📊 Análise de Dados & Cybersecurity | 💻 Python • Java • SQL
 
 ---
 
