@@ -32,9 +32,6 @@ Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmen
     </a>
 </p>
 
----
-
-![Pac-Man Eating Contributions](https://raw.githubusercontent.com/8code8hacker8-dotcom/8code8hacker8-dotcom/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -111,4 +108,9 @@ Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmen
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=8code8hacker8-dotcom&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
+
+  ---
+
+![Pac-Man Eating Contributions](https://raw.githubusercontent.com/8code8hacker8-dotcom/8code8hacker8-dotcom/output/github-contribution-grid-snake.svg)
+
 </p>
