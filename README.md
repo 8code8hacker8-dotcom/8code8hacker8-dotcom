@@ -4,8 +4,6 @@
 
 Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou cursando **Ciência da Computação** (Centro Universitário Dom Helder) e **Engenharia de Software** (UniCesumar). Sou apaixonado por tecnologia e em constante evolução no desenvolvimento.
 
-🎓 Ciência da Computação & Engenharia de Software | 📊 Análise de Dados & Cybersecurity | 💻 Python • Java • SQL
-
 ---
 
 <p align="left">
@@ -52,14 +50,6 @@ Me chamo **Isac Emanuel**, tenho 26 anos e sou natural de Minas Gerais. Atualmen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
